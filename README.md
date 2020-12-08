@@ -15,8 +15,8 @@ Popular post rock bands include:
 When I think of music to relax to, I think of post rock. I discovered the genre when I was having problems falling and staying asleep in high school and was simultaneously trying to expand my music taste. While post-rock may sound abrasive to the new listener, with a good pair of headphones and open ears, one will surely find it to be an engaging listening experience!
 Post rock doesn't immediately sound relaxing, but I find that it does help me fall asleep at night! 
 
-## My generated piece
-For my piece, I decided to sample from existing post-rock songs to create a new song! I also layered on top additional chords to add to the song and get practice with some music theory (which I've never done before!)
+## A Long Season of Swans 
+For my piece, I decided to sample from existing post-rock songs to create a new song! I also layered on top additional chords to add to the song and get practice with some music theory (which I've never done before!). I called my piece **A Long Season of Swans** as it combines all my inspiration.
 The songs I sampled from are (all credit goes to the artists!)
 1. *A Piece of the Sky* by Swans
 I mainly used the crackling sounds in the beginning and a few parts in the middle that get more intense. This song is ~20 minutes long so I only used a few sections!
