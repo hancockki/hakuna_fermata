@@ -33,5 +33,9 @@ I layered on top some ambient synths and chords based on the songs to add some d
 ## A Note on Credits
 All credits to these songs goes to the artists! I do own most of theses records on vinyl and have downloaded them to my computer from my turntable; those I do not have on vinyl I downloaded from the internet. I want the music of these artists to be remembered despite the fact that post rock is a genre which is pretty unheard of. Therefore, I want to support each artist by buying their music and ensuring that all credit is given!
 
+## Work Cited:
+- Sonic Pi tutorial, [here](https://sonic-pi.net/tutorial.html#section-5-1)
+- [Chord Progressions](http://sonic-pi.mehackit.org/exercises/en/04-generate-sounds/04-chord-progressions.html)
+- [Begginer's Guide to Post Rock](https://www.goldenplec.com/featured/a-beginners-guide-post-rock/#:~:text=Post%2Drock%20is%20the%20tag,verse%2Dchorus%2Dverse%20structure.)
 ## A Note on the Song File
 GitHub told me my song was too big to upload (72 mb), so I added it to my OneDrive folder, which I shared with you!
